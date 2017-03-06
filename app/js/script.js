@@ -1,19 +1,2 @@
-/* hepl-mmi/meet-gmap
- *
- * /js/script.js - discover Google Map
- *
- * coded by leny@flatLand!
- * started at 01/03/2016
- */
-
-( function() {
-
-    "use strict";
-
-    $( function() {
-
-        // TODO
-
-    } );
-
-} )();
+;(function(){"use strict";$(function(){console.log("yo");});})();
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNjcmlwdC5qcyJdLCJuYW1lcyI6WyIkIiwiY29uc29sZSIsImxvZyJdLCJtYXBwaW5ncyI6IjBCQVFDQSxFQUFHLFVBQVcsQ0FFVkMsUUFBUUMsR0FBUixDQUFZLElBQVosRUFFSCxDQUpELEUiLCJmaWxlIjoic2NyaXB0LmpzIiwic291cmNlc0NvbnRlbnQiOlsiLyogbGVueS9tZWV0LWdtYXBcclxuICpcclxuICogL2d1bHBmaWxlLmpzIC0gR3VscCB0YXNrc1xyXG4gKlxyXG4gKiBjb2RlZCBieSBsZW55QGZsYXRMYW5kIVxyXG4gKiBzdGFydGVkIGF0IDYvMDMvMjAxN1xyXG4gKi9cclxuXHJcbiAkKCBmdW5jdGlvbigpIHtcclxuXHJcbiAgICAgY29uc29sZS5sb2coXCJ5b1wiKTtcclxuICAgICBcclxuIH0gKTtcclxuIl19

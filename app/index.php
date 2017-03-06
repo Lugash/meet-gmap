@@ -93,8 +93,9 @@ if( !empty( $_SERVER[ "HTTP_X_REQUESTED_WITH" ] ) && strtolower( $_SERVER[ "HTTP
         </main>
 
         <!-- GMap key: AIzaSyBidfSibPbD_Q7e4y3z4GHng_-4LbjCPfs -->
+        <!-- lugash help GMap key: AIzaSyBrWCcCWP7Ee7eX9vJdZiqo9HR4DT0aoVY -->
 
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBidfSibPbD_Q7e4y3z4GHng_-4LbjCPfs"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBrWCcCWP7Ee7eX9vJdZiqo9HR4DT0aoVY"></script>
         <script src="js/jquery.min.js"></script>
         <script src="js/script.js"></script>
     </body>
